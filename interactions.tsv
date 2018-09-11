@@ -1,5 +1,4 @@
-Arthropod Taxa	Arthropod Species	Tree Host(s)*	Endangered Risk Rating	Reference(s)				
-	Scientific Name				Common Name			
+Arthropod Taxa	Arthropod Species Scientific Name 				Common Name	Tree Host(s)*	Endangered Risk Rating	Reference(s)
 Acari	Aceria chrondriphora Keifer				Ashleaf Gall Mite	Fraxinus	High	Solomon et al. (1993), Cranshaw (2004)
 Acari	Aceria fraxiniflora (Felt) 				Ash Flowergall Mite	Fraxinus americana, Fraxinus pennsylvanica 	High	Felt (1918), Ives and Wong (1988), Johnson and Lyon (1988), Solomon et al. (1993), Cranshaw (2004)
 Acari	Eriophyes fraxini Garm.					Fraxinus pennsylvanica	High	Felt (1918)
@@ -47,15 +46,9 @@ Coleoptera	Lyctus parallelopipedus (Melsh.)				Powder-Post Beetles	Betula lenta,
 Coleoptera	Lyctus planicollis LeConte				Southern Lyctus Beetle	Betula lenta, Carya, Diospyros, Fraxinus, Gleditsia or Robinia (locust), Juglans, Liquidambar styraciflua, Populus, Prunus, Quercus, Umbellularia, Other Species	Low	Craighead and Middleton (1930), Craighead (1949), Furniss and Carolin (1977)
 Coleoptera	Lytta sphaericollis Say				Ash Blister Beetle	Fraxinus pennsylvanica, Lonicera, Symphoricarpos occidentalis	Moderate	Ives and Wong (1988)
 Coleoptera	Megacyllene caryae (Gahan) 				Painted Hickory Borer	Carya (including Carya cordiformis, Carya illinoinensis, Carya ovata), Celtis occidentalis, Ceris canadensis, Fraxinus americana, Gleditsia triacanthos, Grindelia, Juglans cinerea, Juglans nigra, Maclura pomifera, Mesquite, Morus (including Morus rubra), Nut Trees, Prosopis juliflora, Quercus, Robinia pseudoacacia, Solidago, Ulmus, Vitis (including Vitis vinifera)	Low	Craighead (1949),  Linsley (1964), Johnson and Lyon (1988), Cranshaw (2004), Lingafelter (2007)
-
 Coleoptera	Meracantha contracta Beauv.					Acer, Carya, Betula, Castanea dentata, Diospyros, Fraxinus, Grindelia, Liriodendron tulipifera, Quercus 	Low	Craighead (1949)
 Coleoptera	Merinus laevis Oliv.					Acer, Betula, Carya, Castanea dentata, Diospyros, Fraxinus, Grindelia, Liriodendron tulipifera, Quercus 	Low	Craighead (1949)
-Coleoptera	Molorchus bimaculatus bimaculatus Say				
-
-
-
-
-	Acer, Amelanchier, Carya, Castanea dentata, Cercis, Cornus, Fraxinus, Hamamelis, Juglans, Liquidambar, Quercus, Vitis	Low	Linsley (1963)
+Coleoptera	Molorchus bimaculatus bimaculatus Say					Acer, Amelanchier, Carya, Castanea dentata, Cercis, Cornus, Fraxinus, Hamamelis, Juglans, Liquidambar, Quercus, Vitis	Low	Linsley (1963)
 Coleoptera	Neoclytus acuminatus (Fabricius)				Redheaded Ash Borer	Acer, Betula, Carya (including Carya illinoinensis, Carya ovata), Castanea dentata, Celtis occidentalis, Celtis tenuiflora, Cercis, Cercocarpus, Cornus, Crataegus viridus, Diospyros (including Diospyros virginiana), Fagus grandifolia, Fraxinus quadrangulata, Gleditsia triacanthos, Ilex, Juglans, Liquidambar, Liriodendron tulipifera, Maclura pomifera,  Malus (including Malus domestica), Ostrya virginiana, Prunus (including Prunus persica, Prunus serotina,), Pyrus, Quercus (including Quercus macrocarpa, Quercus muhlenbergii, Quercus phellos, Quercus velutina,), Robinia pseudoacacia, Salix nigra, Sassafras, Syringa, Tilia (including Tilia americana), Ulmus, Other Species 	Low	Craighead and Middleton (1930), Craighead (1949), Johnson and Lyon (1988), Solomon et al. (1993), Solomon (1995), Yanega (1996), Cranshaw (2004), Lingafelter (2007)
 Coleoptera	Neoclytus caprea (Say)				Banded Ash Borer	Acer, Carya, Celtis laevigata var. reticulate, Diospyros virginiana, Fraxinus nigra, Mesquite, Prosopis, Quercus (including Quercus alba, Quercus emoryi, Quercus vaseyana var. vaseyana), Ulmus, Other Species	Low	Craighead (1949), Keen (1952), Linsley (1964), Furniss and Carolin (1977), Solomon et al. (1993), Yanega (1996),  Lingafelter (2007)
 Coleoptera	Neoclytus conjunctus (LeConte)				Western Ash Borer/ Gray Ash Borer	Arbutus menziesii, Eucalyptus, Fraxinus, Pyrus, Quercus 	Low	Craighead and Middleton (1930), Keen (1952), Linsley (1964), Furniss and Carolin (1977)
@@ -66,8 +59,7 @@ Coleoptera	Parandra brunnea (Fabricius)				Pole Borer	Acer, Carya, Castanea dent
 Coleoptera	Phyllophaga ilicis (Knoch)					Carya (including Carya illinoinensis), Corylus, Diospyros, Fraxinus, Populus, Quercus, Other Species	Low	Craighead (1949)
 Coleoptera	Phyllophaga vehemens (Horn)					Acer, Carya illinoinensis, Fraxinus, Grindelia, Juglans, Populus, Quercus, Rosa, Salix	Low	Craighead (1949)
 Coleoptera	Phymatodes vulneratus (LeConte)					Acer circinatum, Acer glabrum, Acer macrophyllum, Ficus, Fraxinus latifolia, Malus domestica , Rosa nutkana 	Low	Keen (1952), Linsley (1964), Furniss and Carolin (1977) 
-Coleoptera	Pidonia ruficollis (Say)
-					Fagus grandifolia, Fraxinus, Sassafras, Tilia americana	Low	Linsley and Chemsak (1995), Vlasak and Vlasakova (2002)
+Coleoptera	Pidonia ruficollis (Say)					Fagus grandifolia, Fraxinus, Sassafras, Tilia americana	Low	Linsley and Chemsak (1995), Vlasak and Vlasakova (2002)
 Coleoptera	Prionoxystus robiniae (Peck)				Carpenterworm	Acer, Fraxinus pennsylvanica, Populus, Quercus, Salix, Ulmus, Other Species	Low	Keen (1952), Kennedy (1990), Cranshaw (2004) 
 Coleoptera	Pseudocneorhinus bifasciatus Roelofs- Exotic				Japanese Weevil	Berberis, Bidens, Camellia, Cornus, Fragaria, Fraxinus, Ilex, Kalmia latifolia, Ligustrum, Pteridophyta, Rhododendron, Rosa, Spirea, Syringa, Tsuga, Ulmus, Wrigela 	Low	Baker et al. (1980)
 Coleoptera	Rosalia funebris Motschulsky				Banded Alder Borer	Acer, Alnus, Fraxinus, Platanus, Quercus, Salix, Umbellularia californica	Low	Keen (1952), Linsley (1964), Furniss and Carolin (1977) 
@@ -80,17 +72,14 @@ Coleoptera	Thysanocnemis fraxini LeConte				Ash Seed Weevil	Fraxinus	High	Ives a
 Coleoptera	Thysanocnemis helvola LeConte				Ash Seed Weevil	Fraxinus	High	Ives and Wong (1988)
 Coleoptera	Tylonotus bimaculatus Haldeman				Ash and Privet Borer	Betula, Carya, Fraxinus americana, Fraxinus nigra, Fraxinus pennsylvanica, Fraxinus velutina, Juglans nigra, Juglans cinerea, Ligustrum, Liriodendron tulipifera, Ulmus	Low	Craighead (1949), Linsley (1962), Solomon (1995), Yanega (1996), Vlasak and Vlasakova (2002), Lingafelter (2007)
 Coleoptera	Uloma imberbis LeConte					Acer, Betula, Carya, Castanea dentata, Diospyros, Fraxinus, Grindelia, Liriodendron tulipifera Quercus	Low	Craighead (1949)
-Coleoptera	Urographis fasciatus (DeGeer)
-					Acer, Betula, Fagus grandifolia, Fraxinus, Quercus 	Low	Vlasak and Vlasakova (2002)
-Coleoptera	Xyleborus dispar (Fabricius)- Exotic				European Shot-hole Borer/ Pear Blight Beetle
-	Acacia, Acer, Alnus, Betula, Castanea dentata, Cedrus, Corylus, Crataegus, Cydonia oblonga, Fagus grandifolia, Fraxinus, Juglans, Liriodendron tulipifera, Malus domestica, Platanus, Pinus, Populus, Prunus (including Prunus armeniaca, Prunus persica, Prunus persica variety nectarina), Punica granatum, Pyrus, Quercus, Salix, Tsuga, Ulmus, Vitis vinifera, Other Species	Low	Solomon (1995)
+Coleoptera	Urographis fasciatus (DeGeer)					Acer, Betula, Fagus grandifolia, Fraxinus, Quercus 	Low	Vlasak and Vlasakova (2002)
+Coleoptera	Xyleborus dispar (Fabricius)- Exotic				European Shot-hole Borer/ Pear Blight Beetle	Acacia, Acer, Alnus, Betula, Castanea dentata, Cedrus, Corylus, Crataegus, Cydonia oblonga, Fagus grandifolia, Fraxinus, Juglans, Liriodendron tulipifera, Malus domestica, Platanus, Pinus, Populus, Prunus (including Prunus armeniaca, Prunus persica, Prunus persica variety nectarina), Punica granatum, Pyrus, Quercus, Salix, Tsuga, Ulmus, Vitis vinifera, Other Species	Low	Solomon (1995)
 Coleoptera	Xyleborus ferrugineus (Fabricius)				Cosmopolitan Ambrosia Beetle	Acer, Betula, Carya, Castanea dentata, Fagus grandifolia, Fraxinus, Juglans, Liquidambar, Nyssa aquatica, Pinus, Quercus, Taxodium distichum, Other Species	Low	Solomon (1995)
 Coleoptera	Xyleborus sayi (Hopkins)				Eastern Twig Ambrosia Beetle	Acer rubra, Acer saccharum, Betula, Carpinus caroliniana, Carya, Castanea dentata, Cornus, Fraxinus, Juglans Kalmia latifolia, Lindera benzoin, Nyssa, Quercus rubra, Sassafras, Tilia americana	Low	Solomon (1995)
 Coleoptera	Xylobiops basilaris (Say)				Red-shouldered Bostrichid	Fraxinus, Carya (including Carya illinoinensis), Cercis, Conifers, Diospyros, Eucalytpus, Gleditsia or Robinia (locust), Gleditsia triacanthos, Maclura pomifera, Malus domestica, Morus, Prunus persica, Pyrus, Quercus, Robinia pseudoacacia, Toxicodendron vernix, Toxicodendron radicans, Vines	Low	Solomon (1995)
 Coleoptera	Xylopinus aenescens LeConte					Acer, Betula, Carya, Castanea dentata, Diospyros, Fraxinus, Grindelia, Liriodendron tulipifera, Quercus 	Low	Craighead (1949)
 Coleoptera	Xylopinus saperdioides Oliv.					Acer, Betula, Carya, Castanea dentata, Diospyros, Fraxinus, Grindelia, Liriodendron tulipifera, Quercus	Low	Craighead (1949)
-Coleoptera	Xylosandrus germanus (Blandford)- Exotic				Black Stem Borer	Acer rubra, Aesculus glabra, Betula, Carpinus, Carya (including Carya illinoinensis), Cedrus, Cercis, Cornus, Fagus grandifolia, Fraxinus, Liquidambar, Liriodendron tulipifera, Juglans cinerea, Juglans nigra, Malus domestica, Myrica, Nyssa, Pinus, Prunus serotina, Pyrus, Quercus, Rhododendron, Rhus, Salix, Sassafras, Tilia, Toxicodendron radicans, Tsuga, Ulmus, Vitis vinifera, 
- Other Species	Low	Solomon (1995)
+Coleoptera	Xylosandrus germanus (Blandford)- Exotic				Black Stem Borer	Acer rubra, Aesculus glabra, Betula, Carpinus, Carya (including Carya illinoinensis), Cedrus, Cercis, Cornus, Fagus grandifolia, Fraxinus, Liquidambar, Liriodendron tulipifera, Juglans cinerea, Juglans,  nigra, Malus domestica, Myrica, Nyssa, Pinus, Prunus serotina, Pyrus, Quercus, Rhododendron, Rhus, Salix, Sassafras, Tilia, Toxicodendron radicans, Tsuga, Ulmus, Vitis vinifera, Other Species 	Low	Solomon (1995)
 Coleoptera	Xyloterinus politus (Say)				Beech Timber Beetle	Acer, Alnus, Betula, Carya, Castanea dentata, Fagus grandifolia , Fraxinus, Magnolia, Picea, Pinus, Populus, Prunus serotina, Quercus, Tsuga, Ulmus	Low	Solomon (1995)
 Coleoptera	Xylotrechus colonus (Fabricius)					Acer, Carya, Castanea dentata, Fagus grandifolia , Fraxinus, Juglans, Quercus alba, Quercus nigra, Tsuga canadensis, Ulmus, Other Species	Low	Linsley (1964)
 Diptera	Bradysia coprophila (Lint.)				Fungus Gnat	Fraxinus latifolia, Decaying Organic Matter, Quercus lobata, Other Species	Low	Keen (1958), Virginia Cooperative Extension (1996)
@@ -225,8 +214,7 @@ Lepidoptera	Marmara corticola Fitzgerald					Fraxinus americanus, Fraxinus penns
 Lepidoptera	Marmara fraxinicola Braun				Serpentine Miner	Fraxinus americanus	High	Fitzgerald and Simeone (1971), Robinson et al. (2007), Wagner (2007)
 Lepidoptera	Melanchra assimilis (Morrison)				Black Arches	Alnus, Aster, Betula, Comptonia peregrina, Fraxinus americanus, Hypericum perforatum, Larix, Mullein, Pteridium aquilinum, Rubus idaeus, Salix, Solidago canadensis, Other Species	Low	Covell (2005), Wagner (2005), Robinson et al. (2007)
 Lepidoptera	Melanolophia canadaria (Guenée)				Canadian Melanolophia	Acer, Alnus, Amelanchier, Betula, Carya, Cornus, Fraxinus americanus, Fraxinus pennsylvanica, Gleditsia triacanthos, Halesia, Larix, Magnolia, Nyssa sylvatica, Pinus, Platanus, Populus, Prunus, Quercus, Rhamnus, Sassafras, Salix, Spirea, Tilia americana, Ulmus, Vaccinium, Viburnum, Other Species	Low	Wagner (2005), Robinson et al. (2007)
-Lepidoptera	Metanema determinata Walker				Dark Metanema	Acer rubra, Betula papyrifera, Fraxinus pennsylvanica, Populus, Salix	
-Low	Rings and Downer (2001), Covell (2005), Robinson et al. (2007)
+Lepidoptera	Metanema determinata Walker				Dark Metanema	Acer rubra, Betula papyrifera, Fraxinus pennsylvanica, Populus, Salix	Low	Rings and Downer (2001), Covell (2005), Robinson et al. (2007)
 Lepidoptera	Morrisonia confusa (Hübner)				Confused Woodgrain	Acer, Coniferous Species, Fraxinus, Juglans, Lespedeza thunbergii, Lythrum salicaria, Platanus, Prunus, Quercus, Rhododendron, Salix, Tilia americana, Vaccinium, Other Species	Low	Wagner (2005)
 Lepidoptera	Nadata gibbosa (J. E. Smith)					Acer, Betula, Fagus grandifolia, Fraxinus americanus, Populus, Salix, Other Species	Low	Robinson et al. (2007)
 Lepidoptera	Nematocampa filamentaria (Guenée)**					Abies balsamea, Acer, Betula, Fraxinus americanus, Fraxinus pennsylvanica, Pinus, Quercus, Salix, Other Species	Low	Robinson et al. (2007)
@@ -264,8 +252,7 @@ Lepidoptera	Platynota idaeusalis (Walker)				Tufted Apple-Bud Moth	Acer negundo,
 Lepidoptera	Podosesia aureocincta Purrington & Nielson				Banded Ash Clearwing	Fraxinus americanus, Fraxinus pennsylvanica, Olea europaea, Other Species in Olive Family	Moderate	Solomon et al. (1993), Rings and Downer (2001), Robinson et al. (2007), Wagner (2007)
 Lepidoptera	Podosesia fraxini (Lugger)**				Ash Borer	Fraxinus americanus, Fraxinus excelsior, Fraxinus pennsylvanica, Sorbus 	Moderate	Craighead (1949), Furniss and Carolin (1977)
 Lepidoptera	Podosesia syringae (Harris)				Ash Borer	Chionanthus virginicus, Fraxinus americanus, Fraxinus caroliniana, Fraxinus excelsior, Fraxinus nigra, Fraxinus pennsylvanica, Sorbus, Olea europaea, Osmanthus, Ligustrum, Syringa, Other Species in Olive Family	Low	Craighead (1949), Baker et al. (1980), Ives and Wong (1988), Johnson and Lyon (1988), Solomon et al. (1993), Rings and Downer (2001), Kennedy (1990), Hiratsuka et al. (1995), Solomon (1995), Cranshaw (2004), Covell (2005), Robinson et al. (2007), Wagner (2007) 
-Lepidoptera	Prionoxystus macmurtrei (Guérin) 				Little Carpenter Worm	Acer, Castanea dentata, Fraxinus, Quercus rubra	Low
-	Rings and Downer (2001), Covell (2005),  Robinson et al. (2007)
+Lepidoptera	Prionoxystus macmurtrei (Guérin) 				Little Carpenter Worm	Acer, Castanea dentata, Fraxinus, Quercus rubra	Low	Rings and Downer (2001), Covell (2005),  Robinson et al. (2007)
 Lepidoptera	Prionoxystus robiniae (Peck)				Carpenterworm Moth	Acer (including Acer negundo), Betula, Castanea dentata, Celtis laevigata, Fraxinus pennsylvanica, Gleditsia or Robinia (locust), Platanus, Populus (including Populus trichocarpa), Quercus (including Quercus alba, Quercus agrifolia, Quercus rubra Group), Robinia pseudoacacia, Salix,Ulmus, (including introduced Ulmus species), Other Species	Low	Craighead (1949), Ives and Wong (1988), Johnson and Lyon (1988), Solomon et al. (1993), Solomon (1995), Rings and Downer (2001), Covell (2005), Robinson et al. (2007) 
 Lepidoptera	Pseudosciaphila duplex (Walsingham)					Acer rubra, Acer saccharum, Betula, Fraxinus nigra, Fraxinus pennsylvanica, Populus, Salix, Other Species	Low	Robinson et al. (2007)
 Lepidoptera	Rothschildia lebeau forbesi Benjamin**				Forbes’ Silkmoth	Citrus, Fraxinus, Ligustrum, Prunus avium, Prunus persica, Salix, Zanthoxylum americanum, Other Species	Low	Covell (2005), Wagner (2005)
@@ -285,7 +272,6 @@ Lepidoptera	Sphinx gordius Cramer				Apple Sphinx	Chamaedaphne calyculata, Compt
 Lepidoptera	Sphinx kalmiae J.E. Smith				Fawn Sphinx/ Laurel Sphinx	Chionanthus virginicus, Fraxinus americanus, Fraxinus nigra, Kalmia latifolia, Ligustrum, Populus, Rhododendron, Syringa, Other Species in Olive Family	Low	Craighead (1949), Rings and Downer (2001), Wagner et al. (1997), Covell (2005), Wagner (2005, 2007), Robinson et al. (2007)
 Lepidoptera	Sphinx luscitiosa Clemens				Clemen’s Sphinx	Betula, Fraxinus, Malus domestica, Myrica cerifera, Myrica pensylvanica, Populus, Salix	Low	Covell (2005)
 Lepidoptera	Spilosoma latipennis Stretch				Pink-legged Tiger Moth	Arisaema triphyllum, Fraxinus, Impatiens, Plantain, Prunus serotina, Taraxacum 	Low	Rings and Downer (2001), Covell (2005),  Robinson et al. (2007)
-								
 Lepidoptera	Spilosoma virginica (Fabricius)					Acer, Betula, Fraxinus americanus, Fraxinus pennsylvanica, Other Species	Low	Robinson et al. (2007)
 Lepidoptera	Tetracis cachexiata Guenée				White Slant-Line Moth	Abies, Acer, Alnus, Betula, Carpinus caroliniana, Celastrus, Comptonia peregrina, Fraxinus, Kalmia angustifolia, Larix, Myrica, Nyssa sylvatica, Physocarpus, Picea, Pinus, Populus, Prunus, Quercus, Salix, Tilia americana, Tsuga, Ulmus, Viburnum, Other Species	Low	Rings and Downer (2001), Covell (2005), Wagner (2005)
 Lepidoptera	Thyridopteryx ephemeraeformis (Haworth)					Acer, Fraxinus americanus, Pinus, Quercus, Other Species	Low	Robinson et al. (2007)
