@@ -2,22 +2,19 @@
     "columns": [
       {
         "name": "Arthropod Taxa",
-        "datatype": { 
-          "id" : "http://eol.org/schema/taxonID",
-          "base" :"decimal"
-        }
+        "titles": "Arthropod Taxa"
       }, 
       {
         "name": "Arthropod Species Scientific Name",
-				"titles": "sourceTaxonName"
+	"titles": "sourceTaxonName"
       }, 
       {
         "name": "Common Name",
-				"titles" : "Common Name"
+        "titles" : "Common Name"
       }, 
       {
         "name": "Tree Host(s)*",
-				"titles" : "targetTaxonName"
+        "titles" : "targetTaxonName"
       }, 
       {
         "name": "Endangered Risk Rating",
