@@ -1,4 +1,5 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
-  "citation": "Jorrit H. Poelen. 2014. Species associations manually extracted from literature."
+  "citation": "Gandhi, K. J. K., & Herms, D. A. (2009). North American arthropods at risk due to widespread Fraxinus mortality caused by the Alien Emerald ash borer. Biological Invasions, 12(6), 1839–1846. doi:10.1007/s10530-009-9594-1.",
+  "doi": "10.1007/s10530-009-9594-1"
 }
