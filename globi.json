@@ -1,5 +1,15 @@
-{ 
-  "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
-  "citation": "Gandhi, K. J. K., & Herms, D. A. (2009). North American arthropods at risk due to widespread Fraxinus mortality caused by the Alien Emerald ash borer. Biological Invasions, 12(6), 1839–1846. doi:10.1007/s10530-009-9594-1.",
-  "doi": "10.1007/s10530-009-9594-1"
+{
+  "@context": ["http://www.w3.org/ns/csvw", {"@language": "en"}],
+  "rdfs:comment": ["inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/"],
+  "tables": [
+    { "url": "interactions.tsv",
+      "dcterms:bibiographicCitation": "Gandhi, K. J. K., & Herms, D. A. (2009). North American arthropods at risk due to widespread Fraxinus mortality caused by the Alien Emerald ash borer. Biological Invasions, 12(6), 1839–1846. doi:10.1007/s10530-009-9594-1.",
+      "doi": "10.1007/s10530-009-9594-1",
+      "tableSchema": "interactions.tsv-schema.json",
+      "headerRowCount": 1,
+      "delimiter": "\t",
+      "interactionTypeId": "http://purl.obolibrary.org/obo/RO_0002437",
+      "interactionTypeName": "interactsWith"
+    }
+  ]
 }
