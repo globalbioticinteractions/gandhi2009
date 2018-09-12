@@ -6,8 +6,8 @@
         "datatype": "string"
       }, 
       {
-        "name": "Arthropod Species Scientific Name",
-	"titles": "sourceTaxonName",
+        "titles": "Arthropod Species Scientific Name",
+	"name": "sourceTaxonName",
         "datatype": "string"
       }, 
       {
@@ -16,8 +16,8 @@
         "datatype": "string"
       }, 
       {
-        "name": "Tree Host(s)*",
-        "titles" : "targetTaxonName",
+        "titles": "Tree Host(s)*",
+        "name" : "targetTaxonName",
         "datatype": "string"
       }, 
       {
@@ -31,7 +31,7 @@
         "datatype": "string"
       }, 
       {
-        "name": "referenceCitation",
+        "titles": "referenceCitation",
         "name": "referenceCitation",
         "datatype": "string"
       }
