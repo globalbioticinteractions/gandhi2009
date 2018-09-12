@@ -2,31 +2,38 @@
     "columns": [
       {
         "name": "Arthropod Taxa",
-        "titles": "Arthropod Taxa"
+        "titles": "Arthropod Taxa",
+        "datatype": "string"
       }, 
       {
         "name": "Arthropod Species Scientific Name",
-	"titles": "sourceTaxonName"
+	"titles": "sourceTaxonName",
+        "datatype": "string"
       }, 
       {
         "name": "Common Name",
-        "titles" : "Common Name"
+        "titles" : "Common Name",
+        "datatype": "string"
       }, 
       {
         "name": "Tree Host(s)*",
-        "titles" : "targetTaxonName"
+        "titles" : "targetTaxonName",
+        "datatype": "string"
       }, 
       {
         "name": "Endangered Risk Rating",
-        "titles" : "Endangered Risk Rating"
+        "titles" : "Endangered Risk Rating",
+        "datatype": "string"
       }, 
       {
         "name": "Reference(s)",
-        "titles" : "Reference(s)"
+        "titles" : "Reference(s)",
+        "datatype": "string"
       }, 
       {
         "name": "referenceCitation",
-        "name": "referenceCitation"
+        "name": "referenceCitation",
+        "datatype": "string"
       }
     ]
 }
