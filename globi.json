@@ -8,8 +8,8 @@
       "tableSchema": "interactions.tsv-schema.json",
       "headerRowCount": 1,
       "delimiter": "\t",
-      "interactionTypeId": "http://purl.obolibrary.org/obo/RO_0002437",
-      "interactionTypeName": "interactsWith"
+      "interactionTypeId": "http://purl.obolibrary.org/obo/RO_0002453",
+      "interactionTypeName": "hostOf"
     }
   ]
 }
